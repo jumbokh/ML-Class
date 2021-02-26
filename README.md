@@ -2,6 +2,7 @@
 #### CSU CSIE 1092 
 ### Outline
 * Python基本功能介紹 [github](https://github.com/joelgrus/data-science-from-scratch)
+    * [python基礎](https://docs.google.com/presentation/d/1JCgnwv0qgWh8K117y-hkVyBj1sXzETDLq9mfJ--7sb0/edit#slide=id.p)
 * Pandas DataFrame介紹
 * 資料預處理
 * 簡單線性迴歸
