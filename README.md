@@ -1,7 +1,7 @@
 # ML-Class
 #### CSU CSIE 1092 
 ### Outline
-* Python基本功能介紹
+* Python基本功能介紹 [github](https://github.com/joelgrus/data-science-from-scratch)
 * Pandas DataFrame介紹
 * 資料預處理
 * 簡單線性迴歸
