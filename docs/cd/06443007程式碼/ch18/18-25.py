@@ -1,0 +1,1 @@
+df_bow.sum().sort_values(ascending=False)[:10].plot(kind='bar');

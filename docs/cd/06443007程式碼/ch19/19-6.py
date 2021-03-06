@@ -1,0 +1,1 @@
+df.loc[:2,'target']

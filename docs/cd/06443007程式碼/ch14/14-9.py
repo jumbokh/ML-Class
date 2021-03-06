@@ -1,0 +1,1 @@
+sns.pairplot(df, hue='Churn', size=2, diag_kws=dict(bw=0.1));

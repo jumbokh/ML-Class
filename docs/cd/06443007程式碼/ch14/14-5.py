@@ -1,0 +1,1 @@
+df.query('TotalCharges == " "').head(2)

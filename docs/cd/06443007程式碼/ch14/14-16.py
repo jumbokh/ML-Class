@@ -1,0 +1,1 @@
+df[X_col_cat].nunique()

@@ -1,0 +1,1 @@
+df.corrwith(df['Churn']).round(2)

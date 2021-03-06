@@ -1,0 +1,1 @@
+df.groupby('Class')['Amount'].describe()

@@ -1,0 +1,1 @@
+df.groupby(df['date'].dt.year)['rating'].agg(['size','mean'])

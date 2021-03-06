@@ -1,0 +1,1 @@
+digit['data'][0].reshape(8, 8)

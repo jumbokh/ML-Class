@@ -1,0 +1,1 @@
+pd.to_numeric(df['TotalCharges'])
