@@ -7,9 +7,18 @@
 * Pandas DataFrame介紹
 * 資料預處理
 * 簡單線性迴歸
+    * [kaggle: simple regression](https://www.kaggle.com/kuntahsieh/simple-one-feature-linear-regression)
 * 多元線性迴歸
 * 羅吉斯迴歸
+    * [二元分類 imdb](https://github.com/jumbokh/ML-Class/blob/main/imdb_ana_v2-1.ipynb)
+    * [二元分類 imdb](https://github.com/jumbokh/ML-Class/blob/main/imdb_sentiment_analysis_keras_and_tensorflow.ipynb)
+* CNN
+    * [CNN pdf](https://github.com/jumbokh/ML-Class/blob/main/CNN.pdf)
+    * [CNN MNIST](https://github.com/jumbokh/ML-Class/blob/main/02_1_%E7%94%A8CNN%E5%9C%96%E5%BD%A2%E8%BE%A8%E8%AD%98%EF%BC%88%E9%82%84%E6%98%AFMNIST%EF%BC%89.ipynb)
+    * [kaggle: CNN MNIST for Beginners](https://www.kaggle.com/kuntahsieh/mnist-with-keras-for-beginners-99457/edit)
 * K最近鄰
+    * [iris k-means](https://github.com/jumbokh/ML-Class/blob/main/iris_kmeans.ipynb)
+    * [kaggle: Simple k-means](https://github.com/jumbokh/ML-Class/blob/main/simple-k-means-clustering-on-the-iris-dataset.ipynb)
 * 支持向量機
 * 決策樹
 * 文字處理
