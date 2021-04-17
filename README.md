@@ -25,6 +25,7 @@
     * [PIMA](https://colab.research.google.com/github/jumbokh/ML-Class/blob/main/ML/notebooks/KNN/pima-indian/pima-indian-diabetes-binary-classification.ipynb)
     * [Dating Web](https://colab.research.google.com/github/jumbokh/ML-Class/blob/main/ML/notebooks/KNN/KNN.ipynb)
     * [Dating Web II](https://colab.research.google.com/github/jumbokh/ML-Class/blob/main/ML/notebooks/KNN/knn_DatingWeb.ipynb)
+    * [討論](https://github.com/jumbokh/ML-Class/blob/main/ML/notebooks/KNN/05_11_K_Means.ipynb)
 * PCA 降維
 * SOM
 * 支援向量機
