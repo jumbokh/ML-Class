@@ -20,10 +20,11 @@
     * [iris k-means](https://github.com/jumbokh/ML-Class/blob/main/notebooks/iris_kmeans.ipynb)
     * [kaggle: Simple k-means](https://github.com/jumbokh/ML-Class/blob/main/notebooks/simple-k-means-clustering-on-the-iris-dataset.ipynb)
     * [sikit learn](https://scikit-learn.org/stable/modules/neighbors.html)
-* 支持向量機
+* PCA 降維
+* SOM
+* 支援向量機
 * 決策樹
 * 文字處理
-* Kmean集群分析
 ##
 ### Reference
 * https://pub.towardsai.net/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa
