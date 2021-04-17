@@ -32,8 +32,8 @@
 * https://github.com/jumbokh/PythonDataScienceHandbook
 * https://github.com/jumbokh/pyprogbook
 * https://github.com/jumbokh/machine-learning-course
-* [Machine Learning tutorial of beginner](https://github.com/jumbokh/ML-Class/blob/main/notebooks/machine-learning-tutorial-for-beginners.ipynb)
 * https://github.com/jumbokh/deep-learning-with-python-notebooks
 * https://github.com/jumbokh/data-science-with-python
 * https://github.com/jumbokh/Python-100-Days
 * https://github.com/jumbokh/handson-ml2
+* [Machine Learning tutorial of beginner](https://github.com/jumbokh/ML-Class/blob/main/notebooks/machine-learning-tutorial-for-beginners.ipynb)
