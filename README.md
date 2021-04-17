@@ -16,7 +16,7 @@
     * [CNN pdf](https://github.com/jumbokh/ML-Class/blob/main/docs/CNN.pdf)
     * [CNN MNIST](https://github.com/jumbokh/ML-Class/blob/main/notebooks/02_1_%E7%94%A8CNN%E5%9C%96%E5%BD%A2%E8%BE%A8%E8%AD%98%EF%BC%88%E9%82%84%E6%98%AFMNIST%EF%BC%89.ipynb)
     * [kaggle: CNN MNIST for Beginners](https://www.kaggle.com/kuntahsieh/mnist-with-keras-for-beginners-99457/edit)
-* K最近鄰
+* K最近鄰 [資料說明](https://github.com/jumbokh/ML-Class/blob/main/KNN-Data.md)
     * [KNN Introduction](https://colab.research.google.com/github/jumbokh/ML-Class/blob/main/ML/notebooks/KNN/05_11_K_Means.ipynb)
     * [iris k-means](https://github.com/jumbokh/ML-Class/blob/main/notebooks/iris_kmeans.ipynb)
     * [kaggle: Simple k-means](https://github.com/jumbokh/ML-Class/blob/main/notebooks/simple-k-means-clustering-on-the-iris-dataset.ipynb)
