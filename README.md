@@ -19,6 +19,7 @@
 * K最近鄰
     * [iris k-means](https://github.com/jumbokh/ML-Class/blob/main/iris_kmeans.ipynb)
     * [kaggle: Simple k-means](https://github.com/jumbokh/ML-Class/blob/main/simple-k-means-clustering-on-the-iris-dataset.ipynb)
+    * [sikit learn](https://scikit-learn.org/stable/modules/neighbors.html)
 * 支持向量機
 * 決策樹
 * 文字處理
