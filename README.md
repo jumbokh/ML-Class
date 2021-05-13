@@ -10,8 +10,8 @@
     * [kaggle: simple regression](https://www.kaggle.com/kuntahsieh/simple-one-feature-linear-regression)
 * 多元線性迴歸
 * 羅吉斯迴歸
-    * [二元分類 imdb](https://github.com/jumbokh/ML-Class/blob/main/notebooks/imdb_ana_v2-1.ipynb)
-    * [二元分類 imdb](https://github.com/jumbokh/ML-Class/blob/main/notebooks/imdb_sentiment_analysis_keras_and_tensorflow.ipynb)
+    * [二元分類 imdb-1](https://github.com/jumbokh/ML-Class/blob/main/notebooks/imdb_ana_v2-1.ipynb)
+    * [二元分類 imdb-2](https://github.com/jumbokh/ML-Class/blob/main/notebooks/imdb_sentiment_analysis_keras_and_tensorflow.ipynb)
 * CNN
     * [CNN pdf](https://github.com/jumbokh/ML-Class/blob/main/docs/CNN.pdf)
     * [CNN MNIST](https://github.com/jumbokh/ML-Class/blob/main/notebooks/02_1_%E7%94%A8CNN%E5%9C%96%E5%BD%A2%E8%BE%A8%E8%AD%98%EF%BC%88%E9%82%84%E6%98%AFMNIST%EF%BC%89.ipynb)
