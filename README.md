@@ -27,6 +27,7 @@
     * [Dating Web II](https://colab.research.google.com/github/jumbokh/ML-Class/blob/main/ML/notebooks/KNN/knn_DatingWeb.ipynb)
     * [討論](https://github.com/jumbokh/ML-Class/blob/main/ML/notebooks/KNN/05_11_K_Means.ipynb)
 * [PCA 降維](https://github.com/jumbokh/ML-Class/tree/main/PCA)
+* [iFTTT](https://github.com/jumbokh/ML-Class/blob/main/ML/docs/ESP32-iFTTT.pptx)
 * SOM
 * 支援向量機
 * 決策樹
