@@ -39,6 +39,7 @@
 * [李宏毅 ML 課程](https://www.youtube.com/watch?v=xCGidAeyS4M&list=RDCMUC2ggjtuuWvxrHHHiaDH1dlQ&start_radio=1&rv=xCGidAeyS4M&t=1)
 * [IMDB 使用 RNN](https://github.com/jumbokh/ML-Class/blob/main/RNN/04_1_%E7%94%A8RNN%E5%81%9A%E6%83%85%E6%84%8F%E5%88%86%E6%9E%90.ipynb)
 * [Simple RNN & LSTM](https://colab.research.google.com/github/jumbokh/ML-Class/blob/main/RNN/DL_TF2-Ch06-Workshop-RNN_and_LSTM-IMDB_Dataset.ipynb.ipynb)
+* [Kaggle: RNN vs LSTM on Bitcoin dataset](https://www.kaggle.com/etatbak/rnn-vs-lstm-on-bitcoin-dataset)
 ##
 * SOM
 * 支援向量機
