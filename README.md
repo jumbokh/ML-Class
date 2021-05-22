@@ -44,7 +44,6 @@
 * SOM
 * 支援向量機
 * 決策樹
-* 文字處理
 ##
 ### Reference
 * https://pub.towardsai.net/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa
