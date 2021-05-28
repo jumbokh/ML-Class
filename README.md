@@ -41,8 +41,17 @@
 * [Simple RNN & LSTM](https://colab.research.google.com/github/jumbokh/ML-Class/blob/main/RNN/DL_TF2-Ch06-Workshop-RNN_and_LSTM-IMDB_Dataset.ipynb.ipynb)
 * [Kaggle: RNN vs LSTM on Bitcoin dataset](https://www.kaggle.com/etatbak/rnn-vs-lstm-on-bitcoin-dataset)
 ##
-* SOM
-* 支援向量機
+### SOM
+* [Self-organizing map](https://alaric-research.blogspot.com/2011/02/self-organizing-map.html)
+* [SOM 一](https://github.com/jumbokh/intro-computers/blob/master/refers/%E8%81%9A%E9%A1%9E%E7%AF%84%E4%BE%8B6.pdf)
+* [SOM Notebook](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/immp_sompy_simple.ipynb)
+* [SOM 二](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/immp_som.ipynb)
+##
+### 支援向量機
+* [ML Lecture 20：Support Vector Machine (SVM)](https://www.cupoy.com/collection/00000168E4E001DA000000016375706F795F72656C656173654355/00000168EA21EFFD0000001E6375706F795F72656C656173654349)
+* [李宏毅_ML_Lecture_20](https://hackmd.io/@shaoeChen/B1CoXxvmm/https%3A%2F%2Fhackmd.io%2Fs%2FB1zzzspxE)
+* [簡報](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/SVM%20%28v5%29.pdf)
+##
 * 決策樹
 ##
 ### Reference
