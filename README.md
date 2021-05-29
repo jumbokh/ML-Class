@@ -42,6 +42,8 @@
 * [Kaggle: RNN vs LSTM on Bitcoin dataset](https://www.kaggle.com/etatbak/rnn-vs-lstm-on-bitcoin-dataset)
 ##
 ### SOM
+* [WiKi: 曼哈頓距離](https://zh.wikipedia.org/wiki/%E6%9B%BC%E5%93%88%E9%A0%93%E8%B7%9D%E9%9B%A2)
+* [WiKi: 距離](https://zh.wikipedia.org/wiki/%E8%B7%9D%E7%A6%BB#%E6%AD%90%E5%B9%BE%E9%87%8C%E5%BE%97%E8%B7%9D%E9%9B%A2)
 * [Self-organizing map](https://alaric-research.blogspot.com/2011/02/self-organizing-map.html)
 * [SOM 一](https://github.com/jumbokh/intro-computers/blob/master/refers/%E8%81%9A%E9%A1%9E%E7%AF%84%E4%BE%8B6.pdf)
 * [SOM Notebook](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/immp_sompy_simple.ipynb)
