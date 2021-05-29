@@ -56,6 +56,7 @@
 * [簡報](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/SVM%20%28v5%29.pdf)
 * [kaggle: Support Vector Machines Classifier Tutorial with Python](https://www.kaggle.com/kuntahsieh/svm-classifier-tutorial/edit)
 * [SVM example](https://github.com/HuangYukun/columbia_cs_deep_learning_1) [,notebook](https://github.com/jumbokh/ML-Class/blob/main/notebooks/task1-basic_classifiers.ipynb)
+* [Python Data Science Handbook 書本範例](https://github.com/jumbokh/ML-Class/blob/main/notebooks/5_7_Support_Vector_Machines.ipynb)
 ##
 * 決策樹
 ##
