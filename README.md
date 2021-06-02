@@ -49,6 +49,7 @@
 * [Basic uses of SOMPY library](https://github.com/jumbokh/ML-Class/blob/main/notebooks/Basic_Exaples_20160908.ipynb)
 * [SOM Notebook](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/immp_sompy_simple.ipynb)
 * [SOM 二](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/immp_som.ipynb)
+* [以動物特徵分類](https://github.com/jumbokh/ML-Class/blob/main/notebooks/SOM_animal.ipynb) 資料: [features.csv](https://github.com/jumbokh/ML-Class/blob/main/ML/data/features.csv)
 ##
 ### 支援向量機
 * [ML Lecture 20：Support Vector Machine (SVM)](https://www.cupoy.com/collection/00000168E4E001DA000000016375706F795F72656C656173654355/00000168EA21EFFD0000001E6375706F795F72656C656173654349)
