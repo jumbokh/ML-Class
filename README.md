@@ -73,3 +73,4 @@
 * https://github.com/jumbokh/Python-100-Days
 * https://github.com/jumbokh/handson-ml2
 * [Machine Learning tutorial of beginner](https://github.com/jumbokh/ML-Class/blob/main/notebooks/machine-learning-tutorial-for-beginners.ipynb)
+* [默默地學 Deep Learning (7)-透過Keras進行非監督式分群](https://medium.com/%E7%94%A8%E5%8A%9B%E5%8E%BB%E6%84%9B%E4%B8%80%E5%80%8B%E4%BA%BA%E7%9A%84%E8%A9%B1-%E5%BF%83%E4%B9%9F%E6%9C%83%E7%97%9B%E7%9A%84/%E9%BB%98%E9%BB%98%E5%9C%B0%E5%AD%B8-deep-learning-7-%E9%80%8F%E9%81%8Ekeras%E9%80%B2%E8%A1%8C%E9%9D%9E%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%88%86%E7%BE%A4-3afb57ea990c)
