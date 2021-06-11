@@ -68,7 +68,7 @@
 * [Decision Tree :: Decision Tree Hypothesis @ Machine Learning Techniques](https://www.youtube.com/watch?v=dAqPpAXnMJ4)
 * [非監督式學習 (Unsupervised Learning)](https://www.youtube.com/watch?v=wQrghGJvSzs)
 #### Refers:
-* [決策樹](https://github.com/jumbokh/ML-Class/blob/main/docs/%E6%B1%BA%E7%AD%96%E6%A8%B9.pdf)
+* [決策樹](https://github.com/jumbokh/ML-Class/blob/main/docs/%E6%B1%BA%E7%AD%96%E6%A8%B9.pdf) (數據科學入門 第十七章, Joel Grus 著, 高蓉 韓波譯, 歐萊里)
 ##
 ### Reference
 * https://pub.towardsai.net/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa
