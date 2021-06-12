@@ -37,3 +37,12 @@ rmsprop ==> Adam
 
 參考上一個 Lab (regression)
 </pre>
+##
+#### PCA 改進 CNN MNIST
+<pre>
+Simple CNN:
+https://www.kaggle.com/thrillroyd/99-with-simple-cnn
+PCA:
+PCA decomposition and Keras neural network
+</pre>
+##
