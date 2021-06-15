@@ -89,3 +89,4 @@
 * [Introduction to Anomaly Detection: Concepts and Techniques](https://iwringer.wordpress.com/2015/11/17/anomaly-detection-concepts-and-techniques/)
 * [Unsupervised Anomaly Detection](https://github.com/jumbokh/Unsupervised_Anomaly_Detection)
 * [Raspberry pi 3 install pytorch](https://medium.com/hardware-interfacing/how-to-install-pytorch-v4-0-on-raspberry-pi-3b-odroids-and-other-arm-based-devices-91d62f2933c7)
+* [輕鬆學習 Python：透過 API 擷取網站資料](https://medium.com/datainpoint/python-essentials-requesting-web-api-edd417a57ba5)
