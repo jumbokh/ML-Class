@@ -93,3 +93,4 @@
 ### Gov Data
 * [氣象資料](http://e-service.cwb.gov.tw/HistoryDataQuery/)
 * [農產批發市場](https://data.coa.gov.tw/Service/OpenData/FromM/FarmTransData.aspx)
+* [農業資料](https://drive.google.com/drive/folders/1RQewO9e73hW45cdQR_Q6EQ8Kf5sXxzvx?usp=sharing)
