@@ -90,3 +90,6 @@
 * [Unsupervised Anomaly Detection](https://github.com/jumbokh/Unsupervised_Anomaly_Detection)
 * [Raspberry pi 3 install pytorch](https://medium.com/hardware-interfacing/how-to-install-pytorch-v4-0-on-raspberry-pi-3b-odroids-and-other-arm-based-devices-91d62f2933c7)
 * [輕鬆學習 Python：透過 API 擷取網站資料](https://medium.com/datainpoint/python-essentials-requesting-web-api-edd417a57ba5)
+### Gov Data
+* [氣象資料](http://e-service.cwb.gov.tw/HistoryDataQuery/)
+* [農產批發市場](https://data.coa.gov.tw/Service/OpenData/FromM/FarmTransData.aspx)
