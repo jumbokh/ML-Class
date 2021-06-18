@@ -58,6 +58,7 @@
 * [kaggle: Support Vector Machines Classifier Tutorial with Python](https://www.kaggle.com/kuntahsieh/svm-classifier-tutorial/edit)
 * [SVM example](https://github.com/HuangYukun/columbia_cs_deep_learning_1) [,notebook](https://github.com/jumbokh/ML-Class/blob/main/notebooks/task1-basic_classifiers.ipynb)
 * [Python Data Science Handbook 書本範例](https://github.com/jumbokh/ML-Class/blob/main/notebooks/5_7_Support_Vector_Machines.ipynb)
+* [SVM、SVC、SVR三者的區別](https://zhuanlan.zhihu.com/p/37702043)
 ##
 ### 決策樹
 * [決策樹(Decision Tree)以及隨機森林(Random Forest)介紹](https://medium.com/jameslearningnote/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC3-5%E8%AC%9B-%E6%B1%BA%E7%AD%96%E6%A8%B9-decision-tree-%E4%BB%A5%E5%8F%8A%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97-random-forest-%E4%BB%8B%E7%B4%B9-7079b0ddfbda)
