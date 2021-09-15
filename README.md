@@ -26,6 +26,12 @@
     * [Dating Web](https://colab.research.google.com/github/jumbokh/ML-Class/blob/main/ML/notebooks/KNN/KNN.ipynb)
     * [Dating Web II](https://colab.research.google.com/github/jumbokh/ML-Class/blob/main/ML/notebooks/KNN/knn_DatingWeb.ipynb)
     * [討論](https://github.com/jumbokh/ML-Class/blob/main/ML/notebooks/KNN/05_11_K_Means.ipynb)
+##
+<pre>
+簡單來說，KNN就是讓你透過一群已經標記好類別的資料，來針對未分類的資料做分類的工具。
+
+那如果只有一群尚未分類的資料，我們要怎麼將他分類呢？這邊就是非監督式學習(Unsupervised learning)中的K-Means
+</pre>
 * [PCA 降維](https://github.com/jumbokh/ML-Class/tree/main/PCA)
 * [iFTTT](https://github.com/jumbokh/ML-Class/blob/main/ML/docs/ESP32-iFTTT.pptx) [Arduino code](https://github.com/jumbokh/ML-Class/blob/main/notebooks/Lab11-4aiFTTT.ino)
     * 參考: [尤老師網站介紹 ESP32 連接 iFTTT](https://youyouyou.pixnet.net/blog/post/119623728)
