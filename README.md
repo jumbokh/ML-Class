@@ -29,6 +29,7 @@
 * [PCA 降維](https://github.com/jumbokh/ML-Class/tree/main/PCA)
 * [iFTTT](https://github.com/jumbokh/ML-Class/blob/main/ML/docs/ESP32-iFTTT.pptx) [Arduino code](https://github.com/jumbokh/ML-Class/blob/main/notebooks/Lab11-4aiFTTT.ino)
     * 參考: [尤老師網站介紹 ESP32 連接 iFTTT](https://youyouyou.pixnet.net/blog/post/119623728)
+* [ApacheCN](https://github.com/apachecn/apachecn-ds-zh)
 ##
 #### Tiny Machine Learning
 * [Hello World](https://github.com/jumbokh/ML-Class/blob/main/train_hello_world_model.ipynb)
