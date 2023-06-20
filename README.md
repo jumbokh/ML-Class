@@ -84,6 +84,7 @@
 ### Reference
 * ![ML](https://github.com/jumbokh/ML-Class/blob/main/images/ML.PNG)
 * ![ML1](https://github.com/jumbokh/ML-Class/blob/main/images/ML.jpg)
+* [Over-sampling](https://imbalanced-learn.org/stable/over_sampling.html)
 * [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
 * https://pub.towardsai.net/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa
 * https://github.com/jumbokh/python-machine-learning-book-3rd-edition
