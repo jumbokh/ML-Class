@@ -82,6 +82,9 @@
 * [決策樹](https://github.com/jumbokh/ML-Class/blob/main/docs/%E6%B1%BA%E7%AD%96%E6%A8%B9.pdf) (數據科學入門 第十七章, Joel Grus 著, 高蓉 韓波譯, 歐萊里)
 ##
 ### Reference
+* ![ML](https://github.com/jumbokh/ML-Class/blob/main/images/ML.PNG)
+* ![ML1](https://github.com/jumbokh/ML-Class/blob/main/images/ML.jpg)
+* [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
 * https://pub.towardsai.net/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa
 * https://github.com/jumbokh/python-machine-learning-book-3rd-edition
 * https://github.com/jumbokh/python_learn
