@@ -1,0 +1,13 @@
+sudo apt update
+sudo apt install -y libgtk-3-0 libwebkit2gtk-4.1-0 libsecret-1-0 libglib2.0-bin gsettings-desktop-schemas libayatana-appindicator3-1
+chmod +x nthu-2.0.0-Linux.AppImage && ./nthu-2.0.0-Linux.AppImage
+wget https://clients.tos-cn-guangzhou.volces.com/nthu/nthucc_1.42.1_ubuntu_debian_amd64.deb
+sudo apt install ./nthucc_1.42.1_ubuntu_debian_amd64.deb
+在應用程式選單中找到 NTHU.CC 啟動；若選單中找不到，在終端機輸入 nthucc按 Enter 即可啟動
+2. 首次開啟可點擊右上角 地球圖示 切換介面語言
+3. 輸入帳號（電子郵件）和密碼並登入
+4. 點擊主畫面中間的 電源按鈕，狀態變為 已連線 即可使用
+5. 再次點擊電源按鈕即中斷連線
+
+sudo apt install -y libcap2-bin
+sudo setcap 'cap_net_admin,cap_net_raw,cap_net_bind_service+ep' /opt/nthucc/lib/AtlasCore_amd64
